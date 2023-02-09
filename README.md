@@ -6,3 +6,5 @@ how to add catzilla to your path (basically lets u run it from the terminal):
 4. close that terminal
 5. open a new terminal and type in "catzilla" (no quotes obviously)
 6. profit
+
+![result of many beautiful cats](https://github.com/mikhoiuo/catzilla/blob/main/result-pic/result-img.png)
