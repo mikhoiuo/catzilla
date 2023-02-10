@@ -11,5 +11,5 @@ catzilla [#]
 - the hashtag is optional, default is 100 cats, you can do as many as you'd like by adding a specific number there
 
 # but how does it look!!!!11!
-epic
+epic bro!!!
 ![alt text: cats. so many cats](https://github.com/mikhoiuo/catzilla/blob/3d97f0244a6d6c3201e4256e991bfd4fd6b7fd82/result-pic/result-img.png)
